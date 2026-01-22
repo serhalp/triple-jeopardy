@@ -1,3 +1,6 @@
+> [!WARNING]
+> A better version of this ended up [evolving into this project](https://github.com/netlify/examples/tree/main/examples/triple-buzzer)!
+
 # Triple Jeopardy
 
 A Jeopardy! game that compares AI responses from multiple backends. Give it an answer, and three different AI models will respond with questions.
